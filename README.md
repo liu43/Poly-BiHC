@@ -8,3 +8,5 @@
 
 其他函数为对比试验的代码：如CurveCage_Test计算了polynomial cauchy坐标和green坐标，CalculateCMVCWeight_Test计算了Cubic MVC坐标，CoonsWeight_Test计算了[Qin 2024]的坐标
 。
+
+有任何问题，欢迎和我 aa1758926168@mail.ustc.edu.cn 联系!
