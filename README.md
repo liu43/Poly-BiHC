@@ -1,5 +1,6 @@
 # Poly-BiHC
 论文<<2D Polynomial Biharmonic Coordinates for High-order Cages>>的代码和数据以及比较实验。框架来自于傅孝明老师，编译见傅孝明老师主页。编译成功后得到如下界面：
+<img width="1278" height="747" alt="image" src="https://github.com/user-attachments/assets/054b5204-becc-42ee-8bbb-bb7c20e66b18" />
 
 其中mesh存储了变形的网格，images存储了网格的纹理图片。
 
