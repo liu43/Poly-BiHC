@@ -196,19 +196,19 @@ void MainViewerWidget::ShowCubicMVC(void)
 
 void MainViewerWidget::DrawVideo1(void)
 {
-	meshviewerwidget->DrawVideo1();
+	meshviewerwidget->straight_Bih_Test();
 	meshviewerwidget->SetDrawMode(InteractiveViewerWidget::CURVECAGE);
 }
 
 void MainViewerWidget::DrawVideo2(void)
 {
-	meshviewerwidget->DrawVideo2();
+	meshviewerwidget->straight_Bih_Test();
 	meshviewerwidget->SetDrawMode(InteractiveViewerWidget::CURVECAGE);
 }
 
 void MainViewerWidget::DrawVideo3(void)
 {
-	meshviewerwidget->DrawVideo_cauchy();
+	meshviewerwidget->straight_Bih_Test();
 	meshviewerwidget->SetDrawMode(InteractiveViewerWidget::CURVECAGE);
 }
 

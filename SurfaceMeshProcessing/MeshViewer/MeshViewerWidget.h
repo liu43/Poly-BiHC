@@ -384,10 +384,7 @@ public slots:
 	void PolyGC_Test(void);
 	void CalculateCMVCWeight_Test(void);
 	void CoonsWeight_Test(void);
-	void DrawVideo1(void);
-	void DrawVideo2(void);
-	void DrawVideo3(void);
-	void DrawVideo_cauchy(void);
+	
 
 protected:
 	bool mode_drawCurveCage = false;
