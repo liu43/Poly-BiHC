@@ -3,4 +3,4 @@
 
 其中mesh存储了变形的网格，images存储了网格的纹理图片。
 
-双调合坐标项目主体代码见viewerwidget.cpp，其中
+双调合坐标项目主体代码见viewerwidget.cpp，其中straight_Bih_Test函数为直边cage变形为曲边cage的函数，BiharmonicCurve_Test函数为曲边cage变形为曲边cage的函数。
